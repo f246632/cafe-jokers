@@ -1,0 +1,26 @@
+{
+  "coffee": [
+    {"name": "Espresso", "description": "Kräftiger italienischer Espresso", "price": "€2.50"},
+    {"name": "Cappuccino", "description": "Cremiger Cappuccino mit perfekter Milchschaumhaube", "price": "€3.50"},
+    {"name": "Latte Macchiato", "description": "Geschichteter Milchkaffee im hohen Glas", "price": "€3.80"},
+    {"name": "Flat White", "description": "Samtig-weicher Kaffee mit Mikroschaum", "price": "€3.90"},
+    {"name": "Americano", "description": "Espresso verlängert mit heißem Wasser", "price": "€3.00"},
+    {"name": "Filterkaffee", "description": "Klassisch gebrühter Filterkaffee", "price": "€2.80"}
+  ],
+  "specialties": [
+    {"name": "Hausgemachter Eiskaffee", "description": "Erfrischender Eiskaffee mit Vanilleeis", "price": "€4.50"},
+    {"name": "Café Joker's Signature", "description": "Unsere besondere Kaffeemischung mit Karamell-Note", "price": "€4.20"},
+    {"name": "Chai Latte", "description": "Würziger indischer Tee mit aufgeschäumter Milch", "price": "€3.70"}
+  ],
+  "food": [
+    {"name": "Croissant", "description": "Buttrig-knuspriges französisches Croissant", "price": "€2.50"},
+    {"name": "Belegtes Brötchen", "description": "Frisch belegte Brötchen nach Wahl", "price": "€4.50"},
+    {"name": "Kuchen des Tages", "description": "Täglich wechselnde hausgemachte Kuchenspezialitäten", "price": "€3.80"},
+    {"name": "Frühstücksplatte", "description": "Umfangreiches Frühstück mit Brötchen, Aufschnitt & mehr", "price": "€7.90"}
+  ],
+  "drinks": [
+    {"name": "Frisch gepresster O-Saft", "description": "100% Orangensaft", "price": "€3.50"},
+    {"name": "Heiße Schokolade", "description": "Cremige heiße Schokolade", "price": "€3.50"},
+    {"name": "Tee-Auswahl", "description": "Verschiedene Teesorten", "price": "€2.80"}
+  ]
+}

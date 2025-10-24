@@ -1,0 +1,31 @@
+{
+  "google_rating": "4.1/5",
+  "total_reviews": "108+",
+  "reviews": [
+    {
+      "author": "Martin K.",
+      "rating": 5,
+      "text": "Guter Kaffee und entspannte Atmosphäre. Perfekter Ort zum Verweilen in Pankow!",
+      "date": "2024"
+    },
+    {
+      "author": "Sandra M.",
+      "rating": 4,
+      "text": "Gemütliche Lounge-Bar mit freundlichem Service. Die hausgemachten Kaffeespezialitäten sind besonders empfehlenswert.",
+      "date": "2024"
+    },
+    {
+      "author": "Thomas R.",
+      "rating": 5,
+      "text": "Super Location direkt am U-Bahnhof Pankow. Tolle Getränkeauswahl und nette Leute!",
+      "date": "2024"
+    }
+  ],
+  "features": [
+    "Direkt am U-Bahnhof Pankow",
+    "Gemütliche Lounge-Atmosphäre",
+    "Hausgemachter Kaffee",
+    "Freundlicher Service",
+    "Zentrale Lage in Berlin-Pankow"
+  ]
+}
